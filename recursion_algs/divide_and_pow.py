@@ -1,4 +1,5 @@
-# count of items
+# count of items (Task 4.2)
+
 def arr_len(lst: list, length=0) -> int:
     if len(lst) == 1:
         return length+1
